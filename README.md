@@ -42,7 +42,9 @@ Because there is no data about why flights were cancelled and diverted, I tried 
 
 # Files Description
 ./data/24388006_102018_5622_airline_delay_causes.csv  the data set extracted from the bureau of transporation statistics 
+
 ./data/final_data.csv: the final data set used to create the visualization
+
 ./codebook.pdf: a pdf file describing the data set fields
 
 # Resources

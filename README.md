@@ -24,6 +24,7 @@ In this story point, I explored the distribution of the average flight delays as
 Here, I have explored the number of arrived flights across years and seasons to present all models formed over the years and seasons. Line charts are used at this step because they are the best choice for a continuous variable (Year).
 
 4.	Third story point
+
 To reinforce our previous findings, I have explored in the third story point the delay causes as well as the minute average delay over years and seasons. Line charts are used here to track changes over Year (continuous variable) and Season. I have added average reference lines to facilitate the comparison process.
 
 5.	Fifth / Sixth story point

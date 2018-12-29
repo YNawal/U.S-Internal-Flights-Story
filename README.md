@@ -27,7 +27,7 @@ Here, I have explored the number of arrived flights across years and seasons to 
 
 To reinforce our previous findings, I have explored in the third story point the delay causes as well as the minute average delay over years and seasons. Line charts are used here to track changes over Year (continuous variable) and Season. I have added average reference lines to facilitate the comparison process.
 
-5.	Fifth / Sixth story point
+5.	Fifth / Sixth story points
 
 I continued my investigation to arrive at the origin cause of the delayed flights this time by accusing the busiest airports once (5th story point) and the most important airlines another time (6th story point). To show the biggest/ busiest airport, I used the distribution of airports on the map and the color mark to encode the flight density. While the bar chart is used to present the flight density by carrier.  I used also the scatter plot to explore the relationship between flight density and delayed flight proportion/ average delay. I encoded the airport name/carrier name by the color mark (It was enough to covey my message if only they were encoded by the detail mark). 
 
@@ -35,7 +35,7 @@ I continued my investigation to arrive at the origin cause of the delayed flight
 
 In the 6th story point, I moved to verify if any relationship exists between late causes (one by one separately) and flight density at airport or in carriers. In this point I used the stacked bar to explore flight late causes for each airport/ carrier. I found it the best to present and compare data in one place. 
 
-7.	Eighth/ninth story point
+7.	Eighth/ninth story points
 
 Because there is no data about why flights were cancelled and diverted, I tried in the two last story points to reveal some information about them, by exploring the relationship between flight density in carriers /at airports and the flight status (cancelled, diverted and on-time status). This was in the 8th point story. In 9th point story I have explored the relationship between the statuses mentioned above and the season. Scatter plots are used in 8th story point since are the best to observe any trend in data and line charts in 8th story point to track changes over time (Year and Season variables).
 

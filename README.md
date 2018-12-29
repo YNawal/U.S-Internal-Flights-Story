@@ -2,13 +2,13 @@
 
 
 
-# Summary
+## Summary
 A delayed transportation service is a waste of time and money for the carrier and the traveler. In this study we discussed the problem of delayed domestic flights in the United States. According to RITA, there were almost 54 million internal flights from January 2010 to October 2018, 19.4 of them were delayed.
 
 Link to the story: https://public.tableau.com/profile/nawal4368#!/vizhome/U_SFlightDelays/U_SFlightsStory?publish=yes
 
 
-# Design
+## Design
 
 1.	First story point
 
